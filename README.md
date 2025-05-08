@@ -21,4 +21,4 @@ This app allows you to:
 
 This project is still in progress. New features and improvements will be added soon.
 
-**Thank you for using the Mood & Habit Tracker! **
+**Thank you for using the Mood & Habit Tracker!**
