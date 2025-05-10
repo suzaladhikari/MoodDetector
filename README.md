@@ -12,7 +12,7 @@ This app allows you to:
 ## 🚀 How to Run the App Locally
 
 1. **Clone the repository**
-   git clone https://github.com/your-username/mood-tracker.git
+   git clone https://github.com/suzaladhikari/MoodDetector.git
    cd mood-tracker
 2. Install the required Libraries
    pip install streamlit pandas seaborn matplotlib
